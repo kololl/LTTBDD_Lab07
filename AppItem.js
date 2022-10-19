@@ -40,7 +40,7 @@ function ItemApp(props) {
           }}>
           {/* <Text style={{padding: 20}}>Delete</Text> */}
           <Image style={{height:40, width:60, marginLeft:50, marginTop:20}} source={require('./assets/del.png')}></Image>
-        
+          {/* <Image style={{height:40, width:60, marginLeft:50, marginTop:20}} source={require('./assets/del.png')}></Image> */}
       </View>
     </View>
   );
